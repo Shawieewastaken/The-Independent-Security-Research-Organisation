@@ -18,7 +18,7 @@ This report details a phishing scam on Discord where a malicious bot impersonate
 
 Below is an example of a scam message sent by the malicious bot:
 
-![Discord Scam Example]([image.png](https://postimg.cc/jWGGhc8y))
+([image.png](https://postimg.cc/jWGGhc8y))
 
 ## Indicators of the Scam
 
