@@ -29,7 +29,7 @@ By contributing to TIDSR, you agree to the following terms:
 3. **Review Process:** All contributions are subject to a review process. The TIDSR team reserves the right to accept or reject any contributions.
 
 ## Contact Us
-For more information or to get involved with TIDSR, please contact us at Twitter [@TIDSR_org](https://twitter.com/messages/compose?recipient_id=13298072).
+For more information or to get involved with TIDSR, please contact us at Twitter [@TIDSR_org](https://twitter.com/messages/compose?recipient_id=1791536451382829057).
 
 ## Follow Us
 Stay updated with our latest research and activities by following us on our social media channels:
